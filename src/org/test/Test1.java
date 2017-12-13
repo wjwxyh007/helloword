@@ -874,6 +874,7 @@ public class Test1 {
 		//System.out.println(getSms(2,"哈药集团制药六厂"));
 		//System.out.println(getSms(3,"哈药集团制药六厂"));
 		//getSms("哈药集团制药六厂");
+		System.out.println("test");
 		
 		//scqySms();
 		//jiexiSms() ;
